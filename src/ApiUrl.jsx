@@ -1,0 +1,1 @@
+export const APIURL = "https://65a83ffa94c2c5762da8860a.mockapi.io/jobportal/job";
